@@ -1,0 +1,6 @@
+.shadow {
+  filter: drop-shadow(8px 8px rgb(0 0 0));
+}
+.polygon {
+  clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+}
